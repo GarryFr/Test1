@@ -1,0 +1,148 @@
+22:31:12,571 TRACE main LessonItemSQL:retrieve:100 - Retrieving lessonItems from DataBase
+22:31:12,581 TRACE main LessonItemSQL:retrieve:108 - Open connection
+22:31:12,881  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:12,881 TRACE main LessonItemSQL:retrieve:110 - Create statement
+22:31:12,921 TRACE main ClassroomSQL:retrieveById:125 - Retrieving classroom from DataBase
+22:31:12,931 TRACE main ClassroomSQL:retrieveById:133 - Open connection
+22:31:13,002  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:13,002 TRACE main ClassroomSQL:retrieveById:135 - Create statement
+22:31:13,022 TRACE main ClassroomSQL:retrieveById:151 - resultset closed
+22:31:13,022 TRACE main ClassroomSQL:retrieveById:155 - statement closed
+22:31:13,022 TRACE main ClassroomSQL:retrieveById:159 - connection closed
+22:31:13,022 TRACE main ClassroomSQL:retrieveById:165 - classroom witn id 1 is retrieved
+22:31:13,022 TRACE main GroupSQL:retrieveById:125 - Retrieving group from DataBase
+22:31:13,022 TRACE main GroupSQL:retrieveById:133 - Open connection
+22:31:13,092  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:13,092 TRACE main GroupSQL:retrieveById:135 - Create statement
+22:31:13,102 TRACE main GroupSQL:retrieveById:151 - resultset closed
+22:31:13,102 TRACE main GroupSQL:retrieveById:155 - statement closed
+22:31:13,102 TRACE main GroupSQL:retrieveById:159 - connection closed
+22:31:13,102 TRACE main GroupSQL:retrieveById:165 - group with id 1 is retrieved
+22:31:13,102 TRACE main TeacherSQL:retrieveById:126 - Retrieving teacher from DataBase
+22:31:13,102 TRACE main TeacherSQL:retrieveById:134 - Open connection
+22:31:13,182  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:13,182 TRACE main TeacherSQL:retrieveById:136 - Create statement
+22:31:13,192 TRACE main TeacherSQL:retrieveById:152 - resultset closed
+22:31:13,192 TRACE main TeacherSQL:retrieveById:156 - statement closed
+22:31:13,192 TRACE main TeacherSQL:retrieveById:160 - connection closed
+22:31:13,192 TRACE main TeacherSQL:retrieveById:166 - teacher with id 1 is retrieved
+22:31:13,192 TRACE main ClassroomSQL:retrieveById:125 - Retrieving classroom from DataBase
+22:31:13,192 TRACE main ClassroomSQL:retrieveById:133 - Open connection
+22:31:13,282  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:13,282 TRACE main ClassroomSQL:retrieveById:135 - Create statement
+22:31:13,292 TRACE main ClassroomSQL:retrieveById:151 - resultset closed
+22:31:13,292 TRACE main ClassroomSQL:retrieveById:155 - statement closed
+22:31:13,292 TRACE main ClassroomSQL:retrieveById:159 - connection closed
+22:31:13,292 TRACE main ClassroomSQL:retrieveById:165 - classroom witn id 14 is retrieved
+22:31:13,292 TRACE main GroupSQL:retrieveById:125 - Retrieving group from DataBase
+22:31:13,292 TRACE main GroupSQL:retrieveById:133 - Open connection
+22:31:13,375  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:13,375 TRACE main GroupSQL:retrieveById:135 - Create statement
+22:31:13,375 TRACE main GroupSQL:retrieveById:151 - resultset closed
+22:31:13,385 TRACE main GroupSQL:retrieveById:155 - statement closed
+22:31:13,385 TRACE main GroupSQL:retrieveById:159 - connection closed
+22:31:13,385 TRACE main GroupSQL:retrieveById:165 - group with id 2 is retrieved
+22:31:13,385 TRACE main TeacherSQL:retrieveById:126 - Retrieving teacher from DataBase
+22:31:13,385 TRACE main TeacherSQL:retrieveById:134 - Open connection
+22:31:13,455  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:13,455 TRACE main TeacherSQL:retrieveById:136 - Create statement
+22:31:13,465 TRACE main TeacherSQL:retrieveById:152 - resultset closed
+22:31:13,465 TRACE main TeacherSQL:retrieveById:156 - statement closed
+22:31:13,465 TRACE main TeacherSQL:retrieveById:160 - connection closed
+22:31:13,465 TRACE main TeacherSQL:retrieveById:166 - teacher with id 2 is retrieved
+22:31:13,465 TRACE main LessonItemSQL:retrieve:146 - resultset closed
+22:31:13,465 TRACE main LessonItemSQL:retrieve:150 - statement closed
+22:31:13,465 TRACE main LessonItemSQL:retrieve:154 - connection closed
+22:31:13,465 TRACE main LessonItemSQL:retrieve:160 - lessonItems are retrieved
+22:31:29,949 TRACE main LessonItemSQL:retrieve:100 - Retrieving lessonItems from DataBase
+22:31:29,959 TRACE main LessonItemSQL:retrieve:108 - Open connection
+22:31:30,249  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:30,259 TRACE main LessonItemSQL:retrieve:110 - Create statement
+22:31:30,289 TRACE main ClassroomSQL:retrieveById:125 - Retrieving classroom from DataBase
+22:31:30,299 TRACE main ClassroomSQL:retrieveById:133 - Open connection
+22:31:30,369  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:30,369 TRACE main ClassroomSQL:retrieveById:135 - Create statement
+22:31:30,389 TRACE main ClassroomSQL:retrieveById:151 - resultset closed
+22:31:30,390 TRACE main ClassroomSQL:retrieveById:155 - statement closed
+22:31:30,391 TRACE main ClassroomSQL:retrieveById:159 - connection closed
+22:31:30,391 TRACE main ClassroomSQL:retrieveById:165 - classroom witn id 1 is retrieved
+22:31:30,391 TRACE main GroupSQL:retrieveById:125 - Retrieving group from DataBase
+22:31:30,391 TRACE main GroupSQL:retrieveById:133 - Open connection
+22:31:30,461  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:30,461 TRACE main GroupSQL:retrieveById:135 - Create statement
+22:31:30,471 TRACE main GroupSQL:retrieveById:151 - resultset closed
+22:31:30,471 TRACE main GroupSQL:retrieveById:155 - statement closed
+22:31:30,471 TRACE main GroupSQL:retrieveById:159 - connection closed
+22:31:30,471 TRACE main GroupSQL:retrieveById:165 - group with id 1 is retrieved
+22:31:30,471 TRACE main TeacherSQL:retrieveById:126 - Retrieving teacher from DataBase
+22:31:30,471 TRACE main TeacherSQL:retrieveById:134 - Open connection
+22:31:30,581  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:30,581 TRACE main TeacherSQL:retrieveById:136 - Create statement
+22:31:30,591 TRACE main TeacherSQL:retrieveById:152 - resultset closed
+22:31:30,591 TRACE main TeacherSQL:retrieveById:156 - statement closed
+22:31:30,591 TRACE main TeacherSQL:retrieveById:160 - connection closed
+22:31:30,591 TRACE main TeacherSQL:retrieveById:166 - teacher with id 1 is retrieved
+22:31:30,591 TRACE main ClassroomSQL:retrieveById:125 - Retrieving classroom from DataBase
+22:31:30,591 TRACE main ClassroomSQL:retrieveById:133 - Open connection
+22:31:30,691  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:30,691 TRACE main ClassroomSQL:retrieveById:135 - Create statement
+22:31:30,701 TRACE main ClassroomSQL:retrieveById:151 - resultset closed
+22:31:30,701 TRACE main ClassroomSQL:retrieveById:155 - statement closed
+22:31:30,701 TRACE main ClassroomSQL:retrieveById:159 - connection closed
+22:31:30,701 TRACE main ClassroomSQL:retrieveById:165 - classroom witn id 14 is retrieved
+22:31:30,701 TRACE main GroupSQL:retrieveById:125 - Retrieving group from DataBase
+22:31:30,701 TRACE main GroupSQL:retrieveById:133 - Open connection
+22:31:30,782  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:30,782 TRACE main GroupSQL:retrieveById:135 - Create statement
+22:31:30,792 TRACE main GroupSQL:retrieveById:151 - resultset closed
+22:31:30,792 TRACE main GroupSQL:retrieveById:155 - statement closed
+22:31:30,792 TRACE main GroupSQL:retrieveById:159 - connection closed
+22:31:30,792 TRACE main GroupSQL:retrieveById:165 - group with id 2 is retrieved
+22:31:30,792 TRACE main TeacherSQL:retrieveById:126 - Retrieving teacher from DataBase
+22:31:30,792 TRACE main TeacherSQL:retrieveById:134 - Open connection
+22:31:30,862  INFO main DaoFactory:getConnection:22 - Connection open
+22:31:30,862 TRACE main TeacherSQL:retrieveById:136 - Create statement
+22:31:30,862 TRACE main TeacherSQL:retrieveById:152 - resultset closed
+22:31:30,872 TRACE main TeacherSQL:retrieveById:156 - statement closed
+22:31:30,872 TRACE main TeacherSQL:retrieveById:160 - connection closed
+22:31:30,872 TRACE main TeacherSQL:retrieveById:166 - teacher with id 2 is retrieved
+22:31:30,872 TRACE main LessonItemSQL:retrieve:146 - resultset closed
+22:31:30,872 TRACE main LessonItemSQL:retrieve:150 - statement closed
+22:31:30,872 TRACE main LessonItemSQL:retrieve:154 - connection closed
+22:31:30,872 TRACE main LessonItemSQL:retrieve:160 - lessonItems are retrieved
+18:39:35,508  INFO main University:enrollTeacher:109 - teacher is enrolled
+18:39:35,520  INFO main University:createClassroom:119 - classroom is created
+18:39:35,523  INFO main University:createLessonItem:114 - lessonItem is created
+18:39:35,525  INFO main University:createLessonItem:114 - lessonItem is created
+18:39:35,526  INFO main University:createLessonItem:114 - lessonItem is created
+18:39:35,526  INFO main University:createSchedule:124 - schedule is created
+18:39:35,528  INFO main University:enrollTeacher:109 - teacher is enrolled
+18:39:35,529  INFO main University:createClassroom:119 - classroom is created
+18:39:35,529  INFO main University:createLessonItem:114 - lessonItem is created
+18:39:35,530  INFO main University:createLessonItem:114 - lessonItem is created
+18:39:35,530  INFO main University:createLessonItem:114 - lessonItem is created
+18:39:35,531  INFO main University:createSchedule:124 - schedule is created
+14:58:34,549  INFO main University:enrollTeacher:109 - teacher is enrolled
+14:58:34,562  INFO main University:createClassroom:119 - classroom is created
+14:58:34,567  INFO main University:createLessonItem:114 - lessonItem is created
+14:58:34,573  INFO main University:createLessonItem:114 - lessonItem is created
+14:58:34,574  INFO main University:createLessonItem:114 - lessonItem is created
+14:58:34,576  INFO main University:createSchedule:124 - schedule is created
+14:58:34,587  INFO main University:enrollTeacher:109 - teacher is enrolled
+14:58:34,588  INFO main University:createClassroom:119 - classroom is created
+14:58:34,588  INFO main University:createLessonItem:114 - lessonItem is created
+14:58:34,589  INFO main University:createLessonItem:114 - lessonItem is created
+14:58:34,589  INFO main University:createLessonItem:114 - lessonItem is created
+14:58:34,590  INFO main University:createSchedule:124 - schedule is created
+19:22:15,434  INFO main University:enrollTeacher:109 - teacher is enrolled
+19:22:15,468  INFO main University:createClassroom:119 - classroom is created
+19:22:15,474  INFO main University:createLessonItem:114 - lessonItem is created
+19:22:15,494  INFO main University:createLessonItem:114 - lessonItem is created
+19:22:15,495  INFO main University:createLessonItem:114 - lessonItem is created
+19:22:15,495  INFO main University:createSchedule:124 - schedule is created
+19:22:15,505  INFO main University:enrollTeacher:109 - teacher is enrolled
+19:22:15,506  INFO main University:createClassroom:119 - classroom is created
+19:22:15,506  INFO main University:createLessonItem:114 - lessonItem is created
+19:22:15,507  INFO main University:createLessonItem:114 - lessonItem is created
+19:22:15,507  INFO main University:createLessonItem:114 - lessonItem is created
+19:22:15,508  INFO main University:createSchedule:124 - schedule is created

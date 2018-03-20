@@ -1,0 +1,15 @@
+com\foxminded\igorFrenkel\domain\Student.class
+com\foxminded\igorFrenkel\dao\sql\StudentSQL.class
+com\foxminded\igorFrenkel\dao\sql\TeacherSQL.class
+com\foxminded\igorFrenkel\domain\Schedule.class
+com\foxminded\igorFrenkel\domain\Teacher.class
+com\foxminded\igorFrenkel\domain\Classroom.class
+com\foxminded\igorFrenkel\dao\sql\ScheduleSQL.class
+com\foxminded\igorFrenkel\domain\LessonItem.class
+com\foxminded\igorFrenkel\dao\GenericDAO.class
+com\foxminded\igorFrenkel\domain\University.class
+com\foxminded\igorFrenkel\dao\sql\GroupSQL.class
+com\foxminded\igorFrenkel\dao\sql\ClassroomSQL.class
+com\foxminded\igorFrenkel\domain\Group.class
+com\foxminded\igorFrenkel\dao\DaoFactory.class
+com\foxminded\igorFrenkel\dao\sql\LessonItemSQL.class
